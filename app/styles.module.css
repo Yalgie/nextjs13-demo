@@ -1,0 +1,8 @@
+.wrap {
+  background-color: var(--color-red);
+}
+
+.nav a {
+  padding-right: 16px;
+  text-decoration: none;
+}
